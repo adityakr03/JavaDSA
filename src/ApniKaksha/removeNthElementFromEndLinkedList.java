@@ -1,4 +1,4 @@
-package Collections;
+package ApniKaksha;
 
 public class removeNthElementFromEndLinkedList {
     // Nth element location = size - n + 1;

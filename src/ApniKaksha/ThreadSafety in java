@@ -6,6 +6,6 @@ There are several ways to make an object or method thread-safe in Java:
 
     Immutable Objects: An immutable object is an object whose state cannot be modified once it is created. Since the state of an immutable object cannot be changed, there is no need to synchronize access to it, making it automatically thread-safe.
 
-    Thread-Safe Collections: Java provides several thread-safe collections in the java.util.concurrent package, such as ConcurrentHashMap, CopyOnWriteArrayList, etc., that can be used to store data in a thread-safe manner.
+    Thread-Safe ApniKaksha: Java provides several thread-safe collections in the java.util.concurrent package, such as ConcurrentHashMap, CopyOnWriteArrayList, etc., that can be used to store data in a thread-safe manner.
 
     Volatile Fields: Declaring a field as volatile ensures that it is always read from main memory and not from a thread's local cache, ensuring that multiple threads see the same value.

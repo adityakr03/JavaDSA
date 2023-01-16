@@ -1,8 +1,7 @@
 public class StringBuilder_Java {
 
     /* Why do we use StringBuilder?
-     -> Since String keyword is immutable, and strings created using it, occupies space in heap memory, and
-      each time, we change something in string, a new duplicate string is created in the memory, hence it uses more memory and
+     -> Since String keyword is immutable, and strings created using it, occupies space in heap memory, and each time, we change something in string, a new duplicate string is created in the memory, hence it uses more memory and
       doing this also takes time , to prevent all this, we use StringBuilder as it just updates the original string instead of creating a new string as Strings created
       using StringBuilder are mutable(can be changed).
       */
@@ -17,7 +16,7 @@ public class StringBuilder_Java {
         System.out.println(sb1.charAt(0));
 
         // To set character at any index
-        sb2.setCharAt(15, '3');
+        sb2.setCharAt(14, '3');
         System.out.println(sb2);
 
         // To concatenate 2 strings
@@ -40,7 +39,7 @@ public class StringBuilder_Java {
         }
         System.out.println(sb2);
 
-        // If want to swap 2 numbers without any other variable:
+        // If you want to swap 2 numbers without any other variable:
         int a = 1, b = 2;
         a = a ^ b;
         b = a ^ b;

@@ -1,4 +1,4 @@
-package Collections;
+package ApniKaksha;
 
 public class LoopInLinkedList {
 
@@ -16,15 +16,21 @@ public class LoopInLinkedList {
 
     static Node head;
 
-    static class Node {
+    // Driver program to test above functions
+    public static void main(String[] args) {
+        LoopInLinkedList list = new LoopInLinkedList();
+        list.head = new Node(50);
+        list.head.next = new Node(20);
+        list.head.next.next = new Node(15);
+        list.head.next.next.next = new Node(4);
+        list.head.next.next.next.next = new Node(10);
 
-        int data;
-        Node next;
-
-        Node(int d) {
-            data = d;
-            next = null;
-        }
+        // Creating a loop for testing
+        head.next.next.next.next.next = head.next.next;
+        list.detectAndRemoveLoop(head);
+        System.out.println(
+                "Linked List after removing loop : ");
+        list.printList(head);
     }
 
     // Function that detects loop in the list
@@ -70,20 +76,14 @@ public class LoopInLinkedList {
         }
     }
 
-    // Driver program to test above functions
-    public static void main(String[] args) {
-        LoopInLinkedList list = new LoopInLinkedList();
-        list.head = new Node(50);
-        list.head.next = new Node(20);
-        list.head.next.next = new Node(15);
-        list.head.next.next.next = new Node(4);
-        list.head.next.next.next.next = new Node(10);
+    static class Node {
 
-        // Creating a loop for testing
-        head.next.next.next.next.next = head.next.next;
-        list.detectAndRemoveLoop(head);
-        System.out.println(
-                "Linked List after removing loop : ");
-        list.printList(head);
+        int data;
+        Node next;
+
+        Node(int d) {
+            data = d;
+            next = null;
+        }
     }
 }

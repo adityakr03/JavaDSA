@@ -1,6 +1,8 @@
-package Collections;
+package ApniKaksha;
+
 import java.util.ArrayList;
 import java.util.Collections;
+
 public class _01_ArrayList {
     public static void main(String[] args) {
         ArrayList<Integer> alist = new ArrayList<>();
@@ -26,7 +28,7 @@ public class _01_ArrayList {
         System.out.println("Size of ArrayList: " + alist.size());
 
         // Loops in ArrayList:
-        for(int i = 0 ; i < alist.size() ; i++)
+        for (int i = 0; i < alist.size(); i++)
             System.out.print(alist.get(i) + " ");
         System.out.println();
 
