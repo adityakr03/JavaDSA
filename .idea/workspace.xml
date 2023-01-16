@@ -1,84 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Stage_0:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5815408b-f8e6-4199-8cda-9d9499253b55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stage_0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/.idea/Abdul_Bari_DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Abdul_Bari_DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_12_Insert_into_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_13_deleting_from_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_14_linear_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_15_binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_17_reverse_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_18_reverse_array_2nd_way.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Arrays/_19_Merging_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_10_nCr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_11_Tower_Of_Hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_16_binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_2_TailHeadRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_3_Sum_of_n_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_4_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_5_Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_6_Taylor_series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_7_Taylor_series_using_horners_rule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Recursion/_9_fibonacci_series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/Strings/_20_string_operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/_1_Arrays_Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/_8_taylor_series_using_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abdul_Bari_DSA/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codespace/_01_simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codespace/_02_simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codespace/_03_simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedList_Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LoopInLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ThreadSafety in java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/_01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/linkedListImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/removeNthElementFromEndLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJavaBharatTheppireddy/_1_Constructors_in_JAVA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJavaBharatTheppireddy/_2_Wrapper_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Keerti_Recursion_and_Backtracking/_01_Recursion_Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Keerti_Recursion_and_Backtracking/_02_fibonacci_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Keerti_Recursion_and_Backtracking/_03_factorial_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Keerti_Recursion_and_Backtracking/_04_problem_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_01_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_02_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_03_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_04_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_05_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_06_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_07_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_08_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_09_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_10_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_11_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_12_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_13_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternByStriver/_14_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingAlgorithm/BinarySearch_iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingAlgorithm/BinarySearch_recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingAlgorithm/JumpSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingAlgorithm/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBuilder_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/temp.java" afterDir="false" />
+    <list default="true" id="5815408b-f8e6-4199-8cda-9d9499253b55" name="Changes" comment="11/1/23">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/macbookpro/Documents/IdeaProjects/Stage_0&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/aditya/Desktop",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,9 +59,26 @@
       <option name="presentableId" value="Default" />
       <updated>1672773734900</updated>
     </task>
+    <task id="LOCAL-00001" summary="11/1/23">
+      <created>1673442401179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673442401179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11/1/23">
+      <created>1673883635826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673883635826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="11/1/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/1/23" />
   </component>
 </project>
